@@ -6,7 +6,7 @@ This is the page for my first Raspberry Pi project, an RC Car built on Raspberry
 Why do this?  It's purely an educational endeavor to learn more about all of the components involved.
 Why did I choose the parts?  The parts selection was also a learning experience, so there may be better parts.  I'm open to suggestions!!
 
-## Part list (work in progress)
+## Parts list (work in progress)
 Raspberry Pi Pico
 
 [DC Gearbox Motor](https://www.adafruit.com/product/3777)
