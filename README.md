@@ -13,6 +13,8 @@ Raspberry Pi Pico
 
 [L9110H Motor Driver chip](https://www.adafruit.com/product/4489)
 
+[wheels](https://www.adafruit.com/product/4205)
+
 HC05 Serial Bluetooth - various sites, I ordered this through Amazon
 
 More parts TBD
