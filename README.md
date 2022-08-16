@@ -21,3 +21,4 @@ More parts TBD
 
 ## What is next?
 Other than designing and building it?  Figuring out how to do it better?  If I'm happy with it, maybe design a 3d printed chasis?
+Playstation controller for steering?  Camera?  Full on autonomous vehicle!?!?!?  We'll see where this goes!! :P
