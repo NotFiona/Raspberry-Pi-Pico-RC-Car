@@ -20,7 +20,7 @@ HC05 Serial Bluetooth - various sites, I ordered this through Amazon
 More parts TBD
 
 ## Circuit Diagram
-![Circuit Diagram](https://github.com/NotFiona/Raspberry-Pi-Pico-RC-Car/blob/main/Circuit-Diagram%20v0.1.pngg)
+![Circuit Diagram](https://github.com/NotFiona/Raspberry-Pi-Pico-RC-Car/blob/main/Circuit-Diagram%20v0.1.png)
 
 ## What is next? 
 Other than designing and building it?  Figuring out how to do it better?  If I'm happy with it, maybe design a 3d printed chasis?
