@@ -1,5 +1,6 @@
 # Raspberry-Pi-Pico-RC-Car
-**Under Construction**
+
+<img src="https://github.com/NotFiona/Raspberry-Pi-Pico-RC-Car/blob/main/RC Car Prototype.jpg" width="591" height="443">
 
 ## Project information
 This is the page for my first Raspberry Pi project, an RC Car built on Raspberry Pi Pico with Bluetooth control.
@@ -16,6 +17,12 @@ Why did I choose the parts?  The parts selection was also a learning experience,
 - [wheels](https://www.adafruit.com/product/4205) (QTY 2)
 
 - HC05 Serial Bluetooth - various sites, I ordered this through Amazon
+
+- USB battery (mine is a huge old one)
+
+- AA batteries (QTY4)
+
+- [4x AA Battery holder](https://www.adafruit.com/product/3859)
 
 - Misc. parts like wires, extra "wheels", etc.
 
