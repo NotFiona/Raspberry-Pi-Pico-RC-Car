@@ -29,7 +29,11 @@ Why did I choose the parts?  The parts selection was also a learning experience,
 ## Circuit Diagram
 ![Circuit Diagram](https://github.com/NotFiona/Raspberry-Pi-Pico-RC-Car/blob/main/Circuit-Diagram%20v0.1.png)
 
-## Controling from the phone
+## The Code
+- main.py contains the bluetooth monitoring and control code
+- motor.py contains the Motor class used to set up the motors and control the speed and direction
+
+## Controlling from the phone
 The quickest way to control this seemed to be to use the app Serial Bluetooth Terminal.
 Steps:
 1. Download the app
