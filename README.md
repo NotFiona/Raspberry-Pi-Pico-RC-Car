@@ -7,17 +7,17 @@ Why do this?  It's purely an educational endeavor to learn more about all of the
 Why did I choose the parts?  The parts selection was also a learning experience, so there may be better parts.  I'm open to suggestions!!
 
 ## Parts list (work in progress)
-Raspberry Pi Pico
+- Raspberry Pi Pico
 
-[DC Gearbox Motor](https://www.adafruit.com/product/3777)
+- [DC Gearbox Motor](https://www.adafruit.com/product/3777) (QTY 2)
 
-[L9110H Motor Driver chip](https://www.adafruit.com/product/4489)
+- [L9110H Motor Driver chip](https://www.adafruit.com/product/4489) (QTY 2)
 
-[wheels](https://www.adafruit.com/product/4205)
+- [wheels](https://www.adafruit.com/product/4205) (QTY 2)
 
-HC05 Serial Bluetooth - various sites, I ordered this through Amazon
+- HC05 Serial Bluetooth - various sites, I ordered this through Amazon
 
-More parts TBD
+- Misc. parts like wires, extra "wheels", etc.
 
 ## Circuit Diagram
 ![Circuit Diagram](https://github.com/NotFiona/Raspberry-Pi-Pico-RC-Car/blob/main/Circuit-Diagram%20v0.1.png)
